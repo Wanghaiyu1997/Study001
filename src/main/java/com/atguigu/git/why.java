@@ -5,5 +5,6 @@ public class why {
         System.out.println("good");
         System.out.println("good");
         System.out.println("study");
+        System.out.println("day day up");
     }
 }
